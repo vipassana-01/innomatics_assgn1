@@ -1,0 +1,102 @@
+/* .body{
+    background-color: rgb(66, 65, 65);
+} */
+
+body{
+    display: block;
+    margin: 8px;
+    background-color: rgb(29, 28, 28);
+    align-items: center;
+}
+
+.main{
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+div{
+    display: block;
+}
+
+.card{
+    border: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: white;
+    padding-inline: 20px;
+    padding-bottom: 20px;
+    padding: 16px;
+    width: 250px;
+    height: 450px;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2{
+    display: block;
+}
+
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+sub{
+    color: rgb(119, 118, 118);
+    font-weight:200;
+    font-size:large;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    display: block;
+
+}
+
+.button1{
+    background-color: cement;
+    border: none;
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 0.3em;
+    padding: 15px 32px;
+}
+
+.button2{
+    background-color: white;
+    color: gray;
+    border-color: grey;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 0.3em;
+    padding: 15px 32px;
+}
+
+.button3{
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+    border-radius: 0.3em;
+    padding: 15px 32px;
+}
