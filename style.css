@@ -1,0 +1,475 @@
+*{
+	margin: 0%;
+}
+.navbar{
+	padding: 1%;
+}
+.navbar a{
+	color: rgb(24, 24, 24);
+	text-decoration: none;
+	font-size: 17px;
+	margin-right: 2%;
+    font-family: Inter,sans-serif;
+}
+.navbar img{
+	vertical-align: middle;
+}
+.logo{
+	margin: 0% 6% 0% 4% !important;
+}
+#signin{
+	color: white;
+	margin-left: 5%;
+	padding: 0.7%;
+	border-radius: 25px;
+	background-color: #00baf2;
+	text-align: center;
+    padding-left: 2%;
+    font-family: Inter,sans-serif;
+    font-size: 15px;
+    /* height: 20px;
+    width: 500px; */
+
+}
+#signin:hover{
+	background-color: rgb(19, 19, 94);
+}
+.text{
+	background-color: rgba(239, 239, 239, 0.8);
+	padding: 1%;
+    font-family: Inter,sans-serif;
+}
+.sec2{
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins', sans-serif;
+	margin: 7% 0% 7% 5%;
+}
+.downloadapp{
+	border: 1px solid black;
+	background-color: black;
+	color: white;
+	width: 53%;
+	border-radius: 25px;
+	margin-top: 7%;
+	padding: 1%;
+}
+.heading2{
+	font-size: 45px;
+	margin-top: 4%;
+}
+.recharge{
+	font-size: 18px;
+}
+.downloadapp:hover{
+	background-color: white;
+	color: black;
+}
+.icons i{
+	margin-left: 4%;
+}
+.sec3{
+	background-color: #00bbf2;
+	padding: 3%;
+	font-family: 'Poppins', sans-serif;
+}
+.sec3 h1{
+	color: white;
+	font-size: 40px;
+	margin-bottom: 5%;
+}
+.sec3div{
+	display: flex;
+	justify-content:space-evenly;
+}
+.sec3div a{
+	text-decoration: none;
+	color: black;
+}
+.sec3 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+}
+.sec3div p{
+	color: white;
+}
+.sec3div img{
+	margin-bottom: 5%;
+}
+.sec4{
+	background-color: #011d3b;
+	padding: 5%;
+	font-family: 'Poppins', sans-serif;
+}
+.sec4 h1{
+	font-size: 40px;
+	color: white;
+	margin-bottom: 5%;
+}
+.sec4 a:hover{
+	background-color: #02386e;
+	border-radius: 15px;
+} 
+.sec5{
+	font-size: 30px;
+	background-color: rgba(239, 239, 239, 0.6);
+	font-family: 'Poppins', sans-serif;
+	margin-top: 7%;
+	padding: 7%;
+}	
+.sec5div1{
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 6%;
+	border-radius: 10px;
+	margin-top: 3%;
+}
+.div1 h1{
+	font-size: 32px;
+	margin-bottom: 5%;
+}
+.div1 p{
+	font-size: 17px;
+}
+.downloadapp{
+	width: 55%;
+}
+.walletlogo{
+	display: flex;
+	margin-bottom: 6%;
+}
+.sec5div2{
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 6%;
+	border-radius: 10px;
+	margin-top: 3%;
+}
+.div2 h1{
+	font-size: 32px;
+	margin-bottom: 5%;
+}
+.div2 p{
+	font-size: 17px;
+}
+.sec5div3{
+	background-color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 6%;
+	border-radius: 10px;
+	margin-top: 3%;
+}
+.div3 h1{
+	font-size: 30px;
+	margin-bottom: 4%;
+}
+.div3 p{
+	font-size: 17px;
+	margin-bottom: 9%;
+}
+.div3 a{
+	font-size: 18px;
+	text-decoration: none;
+	color: white;
+	background-color: #00bbf2;
+	border-radius: 30px;
+	padding: 2%;
+}
+.upilogo{
+	display: flex;
+	margin-bottom: 6%;
+}
+.sec5div4{
+	display: flex;
+	border: 1px solid white;
+}
+.div411 a{
+	text-decoration: none;
+	color: black;
+}
+.div41{
+	background-color: white;
+	margin-top: 4%;
+	margin-right: 7%;
+	padding: 7%;
+	padding-bottom: 0%;
+}
+.div41 h1{
+	font-size: 30px;
+	margin-top: 3%;
+}
+.div41 p{
+	font-size: 15px;
+	margin-top: 4%;
+}
+.div42{
+	background-color: white;
+	margin-top: 4%;
+	padding: 8%;
+	padding-bottom: 0%;
+}
+.div42 h1{
+	font-size: 30px;
+	margin-top: 3%;
+}
+.div42 p{
+	font-size: 15px;
+	margin-top: 4%;
+}
+.div422 a{
+	text-decoration: none;
+	color: black;
+}
+.sbilogo{
+	margin-top: 3%;
+}
+.sec6{
+	font-family: 'Poppins', sans-serif;
+}
+.sec6div{
+	margin-left: 5%;
+	margin-right: 4%;
+	display: flex;
+	justify-content: space-between;
+}
+.paytm{
+	font-size: 43px;
+	margin-top: 8%;
+	margin-bottom: 4%;
+	margin-left: 5%;
+}
+.bank{
+	font-size: 35px;
+	margin-top: 9%;
+	margin-bottom: 7%;
+}
+.div61 p{
+	margin-bottom: 8%;
+	font-size: 20px;
+}
+.div61 a{
+	background-color: #02386e;
+	text-decoration: none;
+	color: white;
+	border-radius: 25px;
+	width: 35%;
+	padding: 2%;
+}
+.div61 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+}
+.sec7{
+	font-family: 'Poppins', sans-serif;
+}
+.sec7{
+	background-image: url(https://assetscdn1.paytm.com/frontendcommonweb/69678bc5.png);
+	background-size: 100%;
+	display: flex;
+	padding: 5% 10% 10% 3%;
+	justify-content: space-between;
+}
+.goals{
+	font-size: 38px;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	margin-left: 2%;
+}
+.div7 p{
+	margin-bottom: 8%;
+	font-size: 20px;
+}
+.div7 a{
+	background-color: #02386e;
+	text-decoration: none;
+	color: white;
+	border-radius: 25px;
+	width: 35%;
+	padding: 2%;
+}
+.div7 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+}
+.sec6div{
+	margin-left: 5%;
+	margin-right: 4%;
+	display: flex;
+	justify-content: space-between;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	font-family: 'Poppins', sans-serif;
+	margin: 7% 0% 7% 5%;
+}
+.heading{
+	font-size: 45px;
+	margin-top: 4%;
+}
+.insurance {
+	font-size: 18px;
+}
+.div8 a{
+	background-color: #02386e;
+	text-decoration: none;
+	color: white;
+	border-radius: 25px;
+	width: 32%;
+	padding: 1%;
+}
+.div8 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+}
+.sec9{
+	font-family: 'Poppins', sans-serif;
+	margin-left: 5%;
+	margin-right: 4%;
+	display: flex;
+	justify-content: space-between;
+}
+.loan{
+	font-size: 38px;
+	margin-top: 4%;
+	margin-bottom: 4%;
+	margin-left: 4%;
+}
+.div9 p{
+	margin-bottom: 8%;
+	font-size: 20px;
+}
+.div9 a{
+	background-color: #02386e;
+	text-decoration: none;
+	color: white;
+	border-radius: 25px;
+	width: 35%;
+	padding: 2%;
+}
+.div9 a:hover{
+	background-color: #00adf2;
+	border-radius: 15px;
+
+
+}
+
+
+@media (max-width: 390px) {
+	.navbar a{
+		font-size: 4px;
+	}
+	#signin img{
+		width: 3%;
+	}
+	.text{
+		font-size: 7px;
+	}
+	.sec2{
+		font-size: 8px;
+	}
+	.heading2{
+		font-size: 15px;
+	}
+	.recharge{
+		font-size: 5px;
+	}
+	.downloadapp{
+		font-size: 5px;
+	}
+	.sec3 h1{
+		font-size: 17px;
+	}
+	.sec3div{
+		text-align: center;
+		flex-direction: column;
+		font-size: 12px;
+		align-items: center;
+
+	}
+	.sec5{
+		flex-direction: column;
+		font-size: 15px;
+	}
+	.sec5div1 h1{
+		font-size: 12px;
+	}
+	.sec5div1 p{
+		font-size: 5px;
+	}
+	/* .sec5div2{
+		font-size: ;
+	} */
+	.div2 p{
+		font-size: 8px;
+	}
+	.sec5div2 h1{
+		font-size: 8px;
+	}
+	.upi{
+		font-size: 6px !important;
+	}
+	.sec5div3 h1{
+		font-size: 14px;
+	}
+	.sec5div3 p{
+		font-size: 8px;
+	}
+	.sec5div3 a{
+		font-size: 6px;
+	}
+	.div41 h1{
+		font-size: 13px;
+	}
+	.div41 p{
+		font-size: 8px;
+	}
+	.div42 h1{
+		font-size: 13px;
+	}
+	.div42 p{
+		font-size: 8px;
+	}
+	.paytm{
+		font-size: 13px;
+	}
+	.bank{
+		font-size: 13px;
+	}
+	.div61 p{
+		font-size: 7px;
+	}
+	.div61 a{
+		font-size: 5px;
+	}
+	.goals{
+		font-size: 13px;
+	}
+	.div7 p{
+		font-size: 5px;
+	}
+	.div7 a{
+		font-size: 5px;
+	}
+	.heading{
+		font-size: 13px;
+	}
+	.insurance{
+		font-size: 7px;
+	}
+	.div8 a{
+		font-size: 6px;
+	}
+	.loan{
+		font-size: 13px;
+	}
+	.div9 p{
+		font-size: 7px;
+	}
+	.more{
+		font-size: 6px ;
+	}
+}
